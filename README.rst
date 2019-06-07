@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FstephanGarland%2Fgps-point-tagger.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FstephanGarland%2Fgps-point-tagger?ref=badge_shield)
+
 Frustrated by the lack of commercial or FOSS offerings, I made a simple tool with Python. This lets you get GPS coordinates from any NMEA-compatible device, and place them, along with whatever other attributes you'd like (currently set up for utility poles, transformers, and electric meters, but it would be trivial to change the dictionaries) into a CSV.
 
 Additionally, there is a Secondary program that maps poles to a KML file.
@@ -38,3 +40,7 @@ Changelog:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FstephanGarland%2Fgps-point-tagger.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FstephanGarland%2Fgps-point-tagger?ref=badge_large)
